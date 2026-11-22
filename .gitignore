@@ -1,0 +1,15 @@
+# Secrets / local env
+.env
+.env.*
+*.pem
+*.key
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
